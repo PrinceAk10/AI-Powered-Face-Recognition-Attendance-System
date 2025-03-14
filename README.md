@@ -1,10 +1,10 @@
 # AI-Powered Face Recognition Attendance System
 
-📌 Overview
+# 📌 Overview
 
 The AI-Powered Face Recognition Attendance System is an advanced solution that automates attendance tracking using facial recognition technology. This system leverages deep learning models to identify and verify individuals in real time, reducing manual effort and enhancing security.
 
-🎯 Features
+# 🎯 Features
 
 Face Detection & Recognition – Identifies and verifies individuals using AI.
 
@@ -18,7 +18,7 @@ Multi-user Support – Recognizes multiple users in different environments.
 
 GUI Interface – User-friendly interface for easy system operation.
 
-🏗️ Tech Stack
+# 🏗️ Tech Stack
 
 Programming Language: Python
 
@@ -30,15 +30,16 @@ Frontend: Tkinter / Streamlit
 
 API Integration: Twilio API (for notifications), Google Photos API (optional for face dataset management)
 
-🚀 Installation & Setup
+# 🚀 Installation & Setup
 
 Prerequisites
 
 Make sure you have Python installed on your system. You can download it from here.
 
 Step 1: Clone the Repository
+git@github.com:PrinceAk10/AI-Powered-Face-Recognition-Attendance-System.git
 
-🖼️ How It Works
+# 🖼️ How It Works
 
 The system captures real-time video from the webcam.
 
@@ -50,7 +51,7 @@ The record is stored in the database with timestamps.
 
 Optional: Sends notifications via Twilio API (SMS/Email).
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Integration with RFID for multi-factor authentication.
 
@@ -60,14 +61,10 @@ Mobile app for real-time attendance monitoring.
 
 Advanced analytics for attendance trends.
 
-🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions! Feel free to submit issues or pull requests.
 
-📜 License
-
-This project is licensed under the MIT License.
-
-📞 Contact
+# 📞 Contact
 
 For queries, reach out at akshay.kullu60@gmail.com or visit our GitHub repository.
